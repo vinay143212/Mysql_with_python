@@ -19,7 +19,7 @@ The system provides the following operations:
 * **Python 3**
 * **MySQL**
 * **mysql-connector-python**
-* **Command Line Interface (CLI)**
+* **Command Line Interface (CLI)**  
 
 ## Project Structure
 
