@@ -1,4 +1,4 @@
-# Student Management System  
+# Student Management System   
 
 A simple **Student Management System** built using **Python** and **MySQL**.
 This project is a command-line application that allows users to add, view, search, update, and delete student records stored in a MySQL database.
